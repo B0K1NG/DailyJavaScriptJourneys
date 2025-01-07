@@ -14,6 +14,8 @@ This repository contains a collection of daily JavaScript tasks, challenges, and
 
 - **Hands-On Learning:** Each task focuses on improving practical coding skills and problem-solving abilities in JavaScript.
 
+- **Well-Commented Code:** Clear and concise comments accompany each task to make the learning process easier for both myself and any contributors.
+
 ## Under Construction 🚧
 
 This project will continue to grow as I learn more and tackle more advanced topics. Expect new challenges, improved solutions, and expanded documentation as I progress.
