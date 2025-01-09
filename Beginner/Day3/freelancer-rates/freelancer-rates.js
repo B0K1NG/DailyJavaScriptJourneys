@@ -38,7 +38,7 @@ export function priceWithMonthlyDiscount(ratePerHour, numDays, discount) {
 
   let months = Math.floor(numDays/22);
 
-  let remainingDays = (numDays % 22);
+  let remainingDays = numDays % 22;
 
   let fullMonthRate = dayRate(ratePerHour) * 22;
 
